@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 20px;
+    color: #2618b1;
+    text-align: center;
+}
+
+.web {
+    position: absolute;
+    top: 0px;
+}
+
+.text {
+    position: fixed;
+    top: 120px;
+    width: 100px;
+    background-color: #48036f;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffdd;
+}
+
+.cat {
+    position: absolute;
+    left: 150px;
+    top: 240px;
+}
+
+.cat:hover {
+    left: 10px;
+}
